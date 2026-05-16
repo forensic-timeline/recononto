@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+env/
+data/raw/
+data/processed/
+ontology/ttl/*full*.ttl
+results/sparql/*full*.csv
+results/correlation/*full*.csv
+results/llm_eval/reports/
+*.log
+.DS_Store
+*.tmp
