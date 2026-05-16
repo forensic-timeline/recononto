@@ -1,0 +1,10 @@
+provider,model,scenario,bleu,rouge1,rouge2,rougeL,mean,output_len,time_s,success,eval_method
+Ollama,tinyllama:latest,S1_without_knowledge,0.1013,0.3083,0.127,0.1739,0.1776,985,140.9,TRUE,evaluate
+Ollama,tinyllama:latest,S2_with_knowledge,0,0.1574,0.0186,0.0694,0.0614,545,74.6,TRUE,evaluate
+Ollama,tinyllama:latest,S3_few_shot,0,0.2301,0.0272,0.1117,0.0922,1545,131.7,TRUE,evaluate
+Ollama,qwen2.5:0.5b,S1_without_knowledge,0.1003,0.4178,0.1512,0.25,0.2298,1528,73.6,TRUE,evaluate
+Ollama,qwen2.5:0.5b,S2_with_knowledge,0.1346,0.4623,0.1849,0.2412,0.2558,1753,89.8,TRUE,evaluate
+Ollama,qwen2.5:0.5b,S3_few_shot,0.0292,0.3889,0.0836,0.1883,0.1725,2204,115,TRUE,evaluate
+Ollama,qwen2.5:1.5b,S1_without_knowledge,0.0638,0.4281,0.1261,0.2246,0.2106,2119,131.2,TRUE,evaluate
+Ollama,qwen2.5:1.5b,S2_with_knowledge,0.1011,0.4067,0.1288,0.2049,0.2104,1938,125.2,TRUE,evaluate
+Ollama,qwen2.5:1.5b,S3_few_shot,0.1743,0.4862,0.1854,0.2334,0.2698,1723,124,TRUE,evaluate

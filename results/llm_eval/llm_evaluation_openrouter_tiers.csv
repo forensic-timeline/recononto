@@ -1,0 +1,10 @@
+provider,model,model_key,tier,param,scenario,bleu,rouge1,rouge2,rougeL,mean,output_len,time_s,tokens,success,eval_method
+OpenRouter,meta-llama/llama-3.1-8b-instruct,llama-8b,1,8B,S1_without_knowledge,0.2071,0.4432,0.2395,0.3016,0.2978,2065,9.3s,"(2412, 700)",TRUE,evaluate
+OpenRouter,meta-llama/llama-3.1-8b-instruct,llama-8b,1,8B,S2_with_knowledge,0.1441,0.4624,0.2237,0.2551,0.2713,2241,7.4s,"(2722, 700)",TRUE,evaluate
+OpenRouter,meta-llama/llama-3.1-8b-instruct,llama-8b,1,8B,S3_few_shot,0.2198,0.4465,0.2686,0.3079,0.3107,2054,7.2s,"(2567, 700)",TRUE,evaluate
+OpenRouter,qwen/qwen-2.5-72b-instruct,qwen-72b,2,72B,S1_without_knowledge,0.1877,0.5302,0.3155,0.3456,0.3448,2077,17.8s,"(2826, 700)",TRUE,evaluate
+OpenRouter,qwen/qwen-2.5-72b-instruct,qwen-72b,2,72B,S2_with_knowledge,0.1531,0.4743,0.2665,0.285,0.2947,1997,15.2s,"(3157, 700)",TRUE,evaluate
+OpenRouter,qwen/qwen-2.5-72b-instruct,qwen-72b,2,72B,S3_few_shot,0.2565,0.5054,0.3145,0.3593,0.3589,2032,16.9s,"(2985, 700)",TRUE,evaluate
+OpenRouter,qwen/qwen-2.5-7b-instruct,qwen-7b,1,7B,S1_without_knowledge,0.2053,0.4645,0.2606,0.296,0.3066,1879,17.6s,"(2826, 700)",TRUE,evaluate
+OpenRouter,qwen/qwen-2.5-7b-instruct,qwen-7b,1,7B,S2_with_knowledge,0.1656,0.4208,0.223,0.2612,0.2676,1889,12.7s,"(3157, 700)",TRUE,evaluate
+OpenRouter,qwen/qwen-2.5-7b-instruct,qwen-7b,1,7B,S3_few_shot,0.2006,0.4544,0.2801,0.3086,0.3109,1786,21.6s,"(2985, 700)",TRUE,evaluate
