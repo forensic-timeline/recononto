@@ -1,0 +1,20 @@
+PREFIX ord2i: <http://example.org/ord2i#>
+PREFIX time:  <http://www.w3.org/2006/time#>
+
+SELECT ?time ?eventType ?processName ?filePath ?runCount ?parser
+WHERE {
+    ?event a ord2i:Event ;
+           ord2i:hasEventType ?eventType ;
+           ord2i:hasParser    ?parser ;
+           ord2i:uses ?obj .
+    FILTER(?eventType IN ("AppExecution", "AppInstall", "AppLaunch"))
+    OPTIONAL { ?obj ord2i:hasProcessName ?processName }
+    OPTIONAL { ?obj ord2i:hasFilePath    ?filePath }
+    OPTIONAL { ?obj ord2i:hasRunCount    ?runCount }
+    OPTIONAL { ?obj ord2i:hasAppName     ?processName }
+    OPTIONAL {
+        ?event ord2i:hasTimeInterval ?iv .
+        ?iv time:hasBeginning ?time .
+    }
+}
+ORDER BY ?time
