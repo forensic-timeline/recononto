@@ -1,0 +1,15 @@
+PREFIX ord2i: <http://example.org/ord2i#>
+PREFIX time:  <http://www.w3.org/2006/time#>
+
+SELECT ?event ?eventType ?time ?parser ?source
+WHERE {
+    ?event a ord2i:Event ;
+           ord2i:hasEventType ?eventType ;
+           ord2i:hasParser    ?parser ;
+           ord2i:hasSource    ?source .
+    OPTIONAL {
+        ?event ord2i:hasTimeInterval ?iv .
+        ?iv time:hasBeginning ?time .
+    }
+}
+ORDER BY ?time
