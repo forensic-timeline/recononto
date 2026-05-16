@@ -1,0 +1,19 @@
+PREFIX ord2i: <http://example.org/ord2i#>
+
+SELECT ?operation ?technique ?infoSource ?confidence
+       ?toolName ?investigatorName
+WHERE {
+    ?operation a ord2i:InvestigativeOperation ;
+               ord2i:hasTechnique  ?technique ;
+               ord2i:hasInfoSource ?infoSource ;
+               ord2i:hasConfidence ?confidence .
+    OPTIONAL {
+        ?operation ord2i:isPerformedWith ?tool .
+        ?tool ord2i:hasToolName ?toolName .
+    }
+    OPTIONAL {
+        ?operation ord2i:hasContribution ?contrib .
+        ?contrib ord2i:hasContribution ?inv .
+        ?inv ord2i:hasInvestigatorName ?investigatorName .
+    }
+}
