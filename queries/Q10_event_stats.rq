@@ -1,0 +1,9 @@
+PREFIX ord2i: <http://example.org/ord2i#>
+
+SELECT ?eventType (COUNT(?event) AS ?count)
+WHERE {
+    ?event a ord2i:Event ;
+           ord2i:hasEventType ?eventType .
+}
+GROUP BY ?eventType
+ORDER BY DESC(?count)
