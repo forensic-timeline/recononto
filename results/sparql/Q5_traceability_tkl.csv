@@ -1,0 +1,2 @@
+operation,technique,info_source,confidence,tool_name,investigator
+http://example.org/ord2i#InvestigativeOp_FullScenario1,Full extraction of all Windows 11 artifacts via log2timeline/Plaso,"All Plaso parsers: browser SQLite, NTFS, registry, event log, prefetch, LNK",0.9,log2timeline/Plaso,Peneliti Tesis

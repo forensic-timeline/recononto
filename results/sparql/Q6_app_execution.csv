@@ -1,0 +1,492 @@
+timestamp,event_type,process_name,file_path,run_count,parser
+2023-12-26T00:34:23.819000+00:00,AppLaunch,,\Users\User\NTUSER.DAT,,winreg/userassist
+2023-12-26T00:34:23.837000+00:00,AppLaunch,,\Users\User\NTUSER.DAT,,winreg/userassist
+2023-12-26T00:34:24.149897+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:27.243709+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:27.243709+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:28.194597+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:28.194597+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:28.225727+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:28.225727+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:29.753926+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:29.753926+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:30.656173+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:34:30.656173+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:34:36.790259+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:36.790259+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:37.671831+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:34:37.671831+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:34:39.210956+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:39.210956+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:39.211810+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:39.211810+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:39.211810+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:39.211810+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:39.211810+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:39.211810+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:40.737849+00:00,AppExecution,BACKGROUNDTASKHOST.EXE,\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-CA639011.pf,,prefetch
+2023-12-26T00:34:40.737849+00:00,AppExecution,BACKGROUNDTASKHOST.EXE,\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-CA639011.pf,,prefetch
+2023-12-26T00:34:46.675550+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:34:46.675550+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:34:48.761476+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:48.761476+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:34:50.376700+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:50.376700+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:50.893253+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:50.893253+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:50.893253+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:50.893253+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:50.893253+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:50.893253+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:51.490574+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:51.490574+00:00,AppLaunch,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,filestat
+2023-12-26T00:34:52.643145+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:34:52.643145+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:35:01.835543+00:00,AppExecution,IDENTITY_HELPER.EXE,\Windows\Prefetch\IDENTITY_HELPER.EXE-4DBD1CFA.pf,,prefetch
+2023-12-26T00:35:01.835543+00:00,AppExecution,IDENTITY_HELPER.EXE,\Windows\Prefetch\IDENTITY_HELPER.EXE-4DBD1CFA.pf,,prefetch
+2023-12-26T00:35:03.705010+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:35:03.705010+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:35:10.247993+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:35:11.594211+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:35:12.691439+00:00,AppExecution,COOKIE_EXPORTER.EXE,\Windows\Prefetch\COOKIE_EXPORTER.EXE-60B1FA40.pf,,prefetch
+2023-12-26T00:35:32.962524+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:35:33.260581+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:35:34.992516+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:35:35.999857+00:00,AppExecution,SEARCHINDEXER.EXE,\Windows\Prefetch\SEARCHINDEXER.EXE-EF8503D3.pf,,prefetch
+2023-12-26T00:35:39.373857+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:35:49.545890+00:00,AppExecution,VERCLSID.EXE,\Windows\Prefetch\VERCLSID.EXE-D9CCBE06.pf,,prefetch
+2023-12-26T00:35:50.532156+00:00,AppInstall,runtimebroker.exe Name: [REG_SZ] RuntimeBroker.exe OriginalFileName: [REG_SZ] runtimebroker.exe,\Windows\appcompat\Programs\Amcache.hve,,winreg/amcache
+2023-12-26T00:35:58.625231+00:00,AppExecution,CMD.EXE,\Windows\Prefetch\CMD.EXE-CD245F9E.pf,,prefetch
+2023-12-26T00:35:58.714592+00:00,AppExecution,CONHOST.EXE,\Windows\Prefetch\CONHOST.EXE-F98A1078.pf,,prefetch
+2023-12-26T00:35:59.145179+00:00,AppExecution,CONHOST.EXE,\Windows\Prefetch\CONHOST.EXE-F98A1078.pf,,prefetch
+2023-12-26T00:35:59.481029+00:00,AppExecution,CMD.EXE,\Windows\Prefetch\CMD.EXE-CD245F9E.pf,,prefetch
+2023-12-26T00:35:59.555899+00:00,AppExecution,CMD.EXE,\Windows\Prefetch\CMD.EXE-CD245F9E.pf,,prefetch
+2023-12-26T00:35:59.710444+00:00,AppExecution,CONHOST.EXE,\Windows\Prefetch\CONHOST.EXE-F98A1078.pf,,prefetch
+2023-12-26T00:36:02.368767+00:00,AppExecution,MSEDGE.EXE,\Windows\Prefetch\MSEDGE.EXE-F6B373AF.pf,,prefetch
+2023-12-26T00:36:05.903105+00:00,AppExecution,OPENCONSOLE.EXE,\Windows\Prefetch\OPENCONSOLE.EXE-4EEF40F3.pf,,prefetch
+2023-12-26T00:36:09.742312+00:00,AppExecution,OPENCONSOLE.EXE,\Windows\Prefetch\OPENCONSOLE.EXE-4EEF40F3.pf,,prefetch
+2023-12-26T00:36:11.277246+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:36:27.744388+00:00,AppExecution,MSEDGEWEBVIEW2.EXE,\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-EC74B953.pf,,prefetch
+2023-12-26T00:36:28.231686+00:00,AppExecution,WINDOWSTERMINAL.EXE,\Windows\Prefetch\WINDOWSTERMINAL.EXE-908D375D.pf,,prefetch
+2023-12-26T00:36:28.281877+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:36:28.875543+00:00,AppExecution,MSEDGEWEBVIEW2.EXE,\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-EC74B953.pf,,prefetch
+2023-12-26T00:36:30.405185+00:00,AppExecution,MSEDGEWEBVIEW2.EXE,\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-EC74B953.pf,,prefetch
+2023-12-26T00:36:33.621769+00:00,AppExecution,WMIADAP.EXE,\Windows\Prefetch\WMIADAP.EXE-7D63BB4C.pf,,prefetch
+2023-12-26T00:36:35.813381+00:00,AppExecution,MSEDGEWEBVIEW2.EXE,\Windows\Prefetch\MSEDGEWEBVIEW2.EXE-EC74B953.pf,,prefetch
+2023-12-26T00:36:41.127718+00:00,AppExecution,MICROSOFTEDGEUPDATE.EXE,\Windows\Prefetch\MICROSOFTEDGEUPDATE.EXE-30812F03.pf,,prefetch
+2023-12-26T00:36:41.127718+00:00,AppExecution,MICROSOFTEDGEUPDATE.EXE,\Windows\Prefetch\MICROSOFTEDGEUPDATE.EXE-30812F03.pf,,prefetch
+2023-12-26T00:36:43.312207+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:36:43.312207+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:36:43.669905+00:00,AppExecution,WINDOWSTERMINAL.EXE,\Windows\Prefetch\WINDOWSTERMINAL.EXE-908D375D.pf,,prefetch
+2023-12-26T00:36:43.669905+00:00,AppExecution,WINDOWSTERMINAL.EXE,\Windows\Prefetch\WINDOWSTERMINAL.EXE-908D375D.pf,,prefetch
+2023-12-26T00:36:43.836536+00:00,AppExecution,MICROSOFTEDGEUPDATE.EXE,\Windows\Prefetch\MICROSOFTEDGEUPDATE.EXE-30812F03.pf,,prefetch
+2023-12-26T00:36:43.836536+00:00,AppExecution,MICROSOFTEDGEUPDATE.EXE,\Windows\Prefetch\MICROSOFTEDGEUPDATE.EXE-30812F03.pf,,prefetch
+2023-12-26T00:37:04.258196+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:04.258196+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:04.258196+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:06.148700+00:00,AppExecution,SPPSVC.EXE,\Windows\Prefetch\SPPSVC.EXE-7B160CA5.pf,,prefetch
+2023-12-26T00:37:06.148700+00:00,AppExecution,SPPSVC.EXE,\Windows\Prefetch\SPPSVC.EXE-7B160CA5.pf,,prefetch
+2023-12-26T00:37:06.148700+00:00,AppExecution,SPPSVC.EXE,\Windows\Prefetch\SPPSVC.EXE-7B160CA5.pf,,prefetch
+2023-12-26T00:37:06.951838+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:06.951838+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:06.951838+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:07.947361+00:00,AppLaunch,Firefox Installer.exe,\Users\User\Downloads\Firefox Installer.exe,,filestat
+2023-12-26T00:37:07.947361+00:00,AppLaunch,Firefox Installer.exe,\Users\User\Downloads\Firefox Installer.exe,,filestat
+2023-12-26T00:37:07.947361+00:00,AppLaunch,Firefox Installer.exe,\Users\User\Downloads\Firefox Installer.exe,,filestat
+2023-12-26T00:37:08.504594+00:00,AppExecution,UHSSVC.EXE,\Windows\Prefetch\UHSSVC.EXE-5C42B91C.pf,,prefetch
+2023-12-26T00:37:08.504594+00:00,AppExecution,UHSSVC.EXE,\Windows\Prefetch\UHSSVC.EXE-5C42B91C.pf,,prefetch
+2023-12-26T00:37:09.857762+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:09.857762+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:13.844144+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:37:43.693234+00:00,AppExecution,,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:37:46.642000+00:00,AppLaunch,,\Users\User\NTUSER.DAT,,winreg/userassist
+2023-12-26T00:37:46.642000+00:00,AppLaunch,,\Users\User\NTUSER.DAT,,winreg/userassist
+2023-12-26T00:37:47.898379+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:37:50.627364+00:00,AppExecution,BACKGROUNDTASKHOST.EXE,\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-CA639011.pf,,prefetch
+2023-12-26T00:37:51.680856+00:00,AppExecution,DLLHOST.EXE,\Windows\Prefetch\DLLHOST.EXE-38926D07.pf,,prefetch
+2023-12-26T00:38:01.258436+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:38:47.299546+00:00,AppExecution,DLLHOST.EXE,\Windows\Prefetch\DLLHOST.EXE-38926D07.pf,,prefetch
+2023-12-26T00:38:47.588222+00:00,AppExecution,FILECOAUTH.EXE,\Windows\Prefetch\FILECOAUTH.EXE-10F21D3E.pf,,prefetch
+2023-12-26T00:38:48.422622+00:00,AppExecution,BACKGROUNDTASKHOST.EXE,\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-CA639011.pf,,prefetch
+2023-12-26T00:38:49.246641+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:38:52.804103+00:00,AppExecution,msedge.exe,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:38:53.288158+00:00,AppExecution,BACKGROUNDTRANSFERHOST.EXE,\Windows\Prefetch\BACKGROUNDTRANSFERHOST.EXE-AEEF1544.pf,,prefetch
+2023-12-26T00:38:58.293000+00:00,AppLaunch,Firefox Installer.exe,\Users\User\Downloads\Firefox Installer.exe,,winreg/userassist
+2023-12-26T00:39:00.967125+00:00,AppExecution,BACKGROUNDTRANSFERHOST.EXE,\Windows\Prefetch\BACKGROUNDTRANSFERHOST.EXE-AEEF1544.pf,,prefetch
+2023-12-26T00:39:08.544300+00:00,AppExecution,BACKGROUNDTRANSFERHOST.EXE,\Windows\Prefetch\BACKGROUNDTRANSFERHOST.EXE-AEEF1544.pf,,prefetch
+2023-12-26T00:39:09.420798+00:00,AppExecution,BACKGROUNDTRANSFERHOST.EXE,\Windows\Prefetch\BACKGROUNDTRANSFERHOST.EXE-AEEF1544.pf,,prefetch
+2023-12-26T00:39:14.362020+00:00,AppLaunch,Firefox Installer.exe,\Users\User\Downloads\Firefox Installer.exe,,filestat
+2023-12-26T00:39:14.473000+00:00,AppExecution,Firefox Installer.exe,\Windows\appcompat\pca\PcaAppLaunchDic.txt,,winpca_dic
+2023-12-26T00:39:14.489042+00:00,AppExecution,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,prefetch
+2023-12-26T00:39:15.741561+00:00,AppLaunch,,\Program Files\Mozilla Firefox\postSigningData,,filestat
+2023-12-26T00:39:15.741561+00:00,AppLaunch,,\Program Files\Mozilla Firefox\postSigningData,,filestat
+2023-12-26T00:39:16.435820+00:00,AppExecution,SETUP-STUB.EXE,\Windows\Prefetch\SETUP-STUB.EXE-125B115F.pf,,prefetch
+2023-12-26T00:39:17.190195+00:00,AppExecution,SEARCHPROTOCOLHOST.EXE,\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-C6CFE2A8.pf,,prefetch
+2023-12-26T00:39:18.267868+00:00,AppExecution,SEARCHPROTOCOLHOST.EXE,\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-C6CFE2A8.pf,,prefetch
+2023-12-26T00:39:18.508863+00:00,AppExecution,CONSENT.EXE,\Windows\Prefetch\CONSENT.EXE-2D674CE4.pf,,prefetch
+2023-12-26T00:39:18.722171+00:00,AppLaunch,Firefox Installer.exe,\Users\User\Downloads\Firefox Installer.exe,,filestat
+2023-12-26T00:39:24.582307+00:00,AppLaunch,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,filestat
+2023-12-26T00:39:24.582307+00:00,AppLaunch,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,filestat
+2023-12-26T00:39:24.582307+00:00,AppLaunch,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,filestat
+2023-12-26T00:39:24.582307+00:00,AppLaunch,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,filestat
+2023-12-26T00:39:24.582307+00:00,AppLaunch,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,filestat
+2023-12-26T00:39:24.582307+00:00,AppLaunch,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,filestat
+2023-12-26T00:39:24.582307+00:00,AppLaunch,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,filestat
+2023-12-26T00:39:24.582307+00:00,AppLaunch,FIREFOX INSTALLER.EXE,\Windows\Prefetch\FIREFOX INSTALLER.EXE-AACCDE16.pf,,filestat
+2023-12-26T00:39:36.686919+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:40:07.611160+00:00,AppExecution,MOUSOCOREWORKER.EXE,\Windows\Prefetch\MOUSOCOREWORKER.EXE-7CAF47D4.pf,,prefetch
+2023-12-26T00:40:53.769982+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:40:54.940056+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:41:01.918799+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:41:07.275146+00:00,AppExecution,WMIAPSRV.EXE,\Windows\Prefetch\WMIAPSRV.EXE-CF150EEA.pf,,prefetch
+2023-12-26T00:41:08.756041+00:00,AppExecution,WMIAPSRV.EXE,\Windows\Prefetch\WMIAPSRV.EXE-CF150EEA.pf,,prefetch
+2023-12-26T00:41:43.473878+00:00,AppExecution,CTFMON.EXE,\Windows\Prefetch\CTFMON.EXE-5E6E7DF5.pf,,prefetch
+2023-12-26T00:41:49.387914+00:00,AppExecution,consent.exe,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:41:49.590683+00:00,AppInstall,setup-stub.exe,\Windows\appcompat\Programs\Amcache.hve,,winreg/amcache
+2023-12-26T00:41:49.606169+00:00,AppExecution,SETUP-STUB.EXE,\Windows\Prefetch\SETUP-STUB.EXE-125B115F.pf,,prefetch
+2023-12-26T00:42:30.268470+00:00,AppExecution,download.exe,\Windows\System32\config\SYSTEM,,winreg/appcompatcache
+2023-12-26T00:42:30.268470+00:00,AppExecution,download.exe,\Windows\System32\config\SYSTEM,,winreg/appcompatcache
+2023-12-26T00:42:37.198290+00:00,AppExecution,DOWNLOAD.EXE,\Windows\Prefetch\DOWNLOAD.EXE-F8E2DC58.pf,,prefetch
+2023-12-26T00:42:37.198290+00:00,AppExecution,DOWNLOAD.EXE,\Windows\Prefetch\DOWNLOAD.EXE-F8E2DC58.pf,,prefetch
+2023-12-26T00:42:50.637507+00:00,AppExecution,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,prefetch
+2023-12-26T00:42:50.637507+00:00,AppExecution,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,prefetch
+2023-12-26T00:42:51.791993+00:00,AppLaunch,,\Program Files\Mozilla Firefox,,filestat
+2023-12-26T00:42:51.791993+00:00,AppLaunch,,\Program Files\Mozilla Firefox,,filestat
+2023-12-26T00:42:52.360999+00:00,AppLaunch,,\Program Files\Mozilla Firefox\install.log,,filestat
+2023-12-26T00:42:52.360999+00:00,AppLaunch,,\Program Files\Mozilla Firefox\install.log,,filestat
+2023-12-26T00:42:52.472926+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall,,filestat
+2023-12-26T00:42:52.472926+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall\uninstall.log,,filestat
+2023-12-26T00:42:52.472926+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall,,filestat
+2023-12-26T00:42:52.472926+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall\uninstall.log,,filestat
+2023-12-26T00:42:53.223936+00:00,AppLaunch,,\Program Files\Mozilla Firefox\AccessibleMarshal.dll,,filestat
+2023-12-26T00:42:53.223936+00:00,AppLaunch,,\Program Files\Mozilla Firefox\AccessibleMarshal.dll,,filestat
+2023-12-26T00:42:53.517557+00:00,AppLaunch,,\Program Files\Mozilla Firefox\application.ini,,filestat
+2023-12-26T00:42:53.517557+00:00,AppLaunch,,\Program Files\Mozilla Firefox\application.ini,,filestat
+2023-12-26T00:42:53.564976+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser,,filestat
+2023-12-26T00:42:53.564976+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser,,filestat
+2023-12-26T00:42:53.596460+00:00,AppLaunch,crashreporter.exe,\Program Files\Mozilla Firefox\crashreporter.exe,,filestat
+2023-12-26T00:42:53.596460+00:00,AppLaunch,crashreporter.exe,\Program Files\Mozilla Firefox\crashreporter.exe,,filestat
+2023-12-26T00:42:53.612430+00:00,AppLaunch,crashreporter.exe,\Program Files\Mozilla Firefox\crashreporter.exe,,filestat
+2023-12-26T00:42:53.612430+00:00,AppLaunch,crashreporter.exe,\Program Files\Mozilla Firefox\crashreporter.exe,,filestat
+2023-12-26T00:42:53.711451+00:00,AppLaunch,,\Program Files\Mozilla Firefox\crashreporter.ini,,filestat
+2023-12-26T00:42:53.711451+00:00,AppLaunch,,\Program Files\Mozilla Firefox\crashreporter.ini,,filestat
+2023-12-26T00:42:53.711451+00:00,AppLaunch,,\Program Files\Mozilla Firefox\crashreporter.ini,,filestat
+2023-12-26T00:42:53.711451+00:00,AppLaunch,,\Program Files\Mozilla Firefox\crashreporter.ini,,filestat
+2023-12-26T00:42:53.774541+00:00,AppLaunch,default-browser-agent.exe,\Program Files\Mozilla Firefox\default-browser-agent.exe,,filestat
+2023-12-26T00:42:53.774541+00:00,AppLaunch,default-browser-agent.exe,\Program Files\Mozilla Firefox\default-browser-agent.exe,,filestat
+2023-12-26T00:42:53.824703+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaultagent.ini,,filestat
+2023-12-26T00:42:53.824703+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaultagent.ini,,filestat
+2023-12-26T00:42:53.824703+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaultagent.ini,,filestat
+2023-12-26T00:42:53.824703+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaultagent.ini,,filestat
+2023-12-26T00:42:53.869402+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults,,filestat
+2023-12-26T00:42:53.869402+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults,,filestat
+2023-12-26T00:42:53.885063+00:00,AppLaunch,,\Program Files\Mozilla Firefox\dependentlibs.list,,filestat
+2023-12-26T00:42:53.885063+00:00,AppLaunch,,\Program Files\Mozilla Firefox\dependentlibs.list,,filestat
+2023-12-26T00:42:53.931866+00:00,AppLaunch,firefox.exe,\Program Files\Mozilla Firefox\firefox.exe,,filestat
+2023-12-26T00:42:53.931866+00:00,AppLaunch,firefox.exe,\Program Files\Mozilla Firefox\firefox.exe,,filestat
+2023-12-26T00:42:54.155686+00:00,AppLaunch,,\Program Files\Mozilla Firefox\firefox.VisualElementsManifest.xml,,filestat
+2023-12-26T00:42:54.155686+00:00,AppLaunch,,\Program Files\Mozilla Firefox\firefox.VisualElementsManifest.xml,,filestat
+2023-12-26T00:42:54.203083+00:00,AppLaunch,,\Program Files\Mozilla Firefox\fonts,,filestat
+2023-12-26T00:42:54.203083+00:00,AppLaunch,,\Program Files\Mozilla Firefox\fonts,,filestat
+2023-12-26T00:42:54.218741+00:00,AppLaunch,,\Program Files\Mozilla Firefox\freebl3.dll,,filestat
+2023-12-26T00:42:54.218741+00:00,AppLaunch,,\Program Files\Mozilla Firefox\freebl3.dll,,filestat
+2023-12-26T00:42:54.256362+00:00,AppLaunch,firefox.exe,\Program Files\Mozilla Firefox\firefox.exe,,filestat
+2023-12-26T00:42:54.256362+00:00,AppLaunch,firefox.exe,\Program Files\Mozilla Firefox\firefox.exe,,filestat
+2023-12-26T00:42:54.298948+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gkcodecs.dll,,filestat
+2023-12-26T00:42:54.298948+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gkcodecs.dll,,filestat
+2023-12-26T00:42:54.345571+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey,,filestat
+2023-12-26T00:42:54.345571+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey,,filestat
+2023-12-26T00:42:54.361277+00:00,AppLaunch,,\Program Files\Mozilla Firefox\ipcclientcerts.dll,,filestat
+2023-12-26T00:42:54.361277+00:00,AppLaunch,,\Program Files\Mozilla Firefox\ipcclientcerts.dll,,filestat
+2023-12-26T00:42:54.415489+00:00,AppLaunch,firefox.exe,\Program Files\Mozilla Firefox\firefox.exe,,filestat
+2023-12-26T00:42:54.415489+00:00,AppLaunch,firefox.exe,\Program Files\Mozilla Firefox\firefox.exe,,filestat
+2023-12-26T00:42:54.439930+00:00,AppLaunch,,\Program Files\Mozilla Firefox\lgpllibs.dll,,filestat
+2023-12-26T00:42:54.439930+00:00,AppLaunch,,\Program Files\Mozilla Firefox\lgpllibs.dll,,filestat
+2023-12-26T00:42:54.489214+00:00,AppLaunch,,\Program Files\Mozilla Firefox\libEGL.dll,,filestat
+2023-12-26T00:42:54.489214+00:00,AppLaunch,,\Program Files\Mozilla Firefox\libEGL.dll,,filestat
+2023-12-26T00:42:54.552351+00:00,AppLaunch,,\Program Files\Mozilla Firefox\libGLESv2.dll,,filestat
+2023-12-26T00:42:54.552351+00:00,AppLaunch,,\Program Files\Mozilla Firefox\libGLESv2.dll,,filestat
+2023-12-26T00:42:54.663705+00:00,AppLaunch,,\Program Files\Mozilla Firefox\locale.ini,,filestat
+2023-12-26T00:42:54.663705+00:00,AppLaunch,,\Program Files\Mozilla Firefox\locale.ini,,filestat
+2023-12-26T00:42:54.663705+00:00,AppLaunch,,\Program Files\Mozilla Firefox\locale.ini,,filestat
+2023-12-26T00:42:54.663705+00:00,AppLaunch,,\Program Files\Mozilla Firefox\locale.ini,,filestat
+2023-12-26T00:42:54.726009+00:00,AppLaunch,maintenanceservice.exe,\Program Files\Mozilla Firefox\maintenanceservice.exe,,filestat
+2023-12-26T00:42:54.726009+00:00,AppLaunch,maintenanceservice.exe,\Program Files\Mozilla Firefox\maintenanceservice.exe,,filestat
+2023-12-26T00:42:54.742128+00:00,AppLaunch,maintenanceservice.exe,\Program Files\Mozilla Firefox\maintenanceservice.exe,,filestat
+2023-12-26T00:42:54.742128+00:00,AppLaunch,maintenanceservice.exe,\Program Files\Mozilla Firefox\maintenanceservice.exe,,filestat
+2023-12-26T00:42:54.895932+00:00,AppLaunch,maintenanceservice_installer.exe,\Program Files\Mozilla Firefox\maintenanceservice_installer.exe,,filestat
+2023-12-26T00:42:54.895932+00:00,AppLaunch,maintenanceservice_installer.exe,\Program Files\Mozilla Firefox\maintenanceservice_installer.exe,,filestat
+2023-12-26T00:42:55.279402+00:00,AppLaunch,minidump-analyzer.exe,\Program Files\Mozilla Firefox\minidump-analyzer.exe,,filestat
+2023-12-26T00:42:55.279402+00:00,AppLaunch,minidump-analyzer.exe,\Program Files\Mozilla Firefox\minidump-analyzer.exe,,filestat
+2023-12-26T00:42:55.294871+00:00,AppLaunch,minidump-analyzer.exe,\Program Files\Mozilla Firefox\minidump-analyzer.exe,,filestat
+2023-12-26T00:42:55.294871+00:00,AppLaunch,minidump-analyzer.exe,\Program Files\Mozilla Firefox\minidump-analyzer.exe,,filestat
+2023-12-26T00:42:55.357819+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozavcodec.dll,,filestat
+2023-12-26T00:42:55.357819+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozavcodec.dll,,filestat
+2023-12-26T00:42:55.472417+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozavutil.dll,,filestat
+2023-12-26T00:42:55.472417+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozavutil.dll,,filestat
+2023-12-26T00:42:55.537484+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozglue.dll,,filestat
+2023-12-26T00:42:55.537484+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozglue.dll,,filestat
+2023-12-26T00:42:55.585310+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozwer.dll,,filestat
+2023-12-26T00:42:55.585310+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozwer.dll,,filestat
+2023-12-26T00:42:55.585310+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozwer.dll,,filestat
+2023-12-26T00:42:55.585310+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozwer.dll,,filestat
+2023-12-26T00:42:55.649583+00:00,AppLaunch,,\Program Files\Mozilla Firefox\msvcp140.dll,,filestat
+2023-12-26T00:42:55.649583+00:00,AppLaunch,,\Program Files\Mozilla Firefox\msvcp140.dll,,filestat
+2023-12-26T00:42:55.696209+00:00,AppLaunch,,\Program Files\Mozilla Firefox\notificationserver.dll,,filestat
+2023-12-26T00:42:55.696209+00:00,AppLaunch,,\Program Files\Mozilla Firefox\notificationserver.dll,,filestat
+2023-12-26T00:42:55.696209+00:00,AppLaunch,,\Program Files\Mozilla Firefox\notificationserver.dll,,filestat
+2023-12-26T00:42:55.696209+00:00,AppLaunch,,\Program Files\Mozilla Firefox\notificationserver.dll,,filestat
+2023-12-26T00:42:55.776706+00:00,AppLaunch,,\Program Files\Mozilla Firefox\nss3.dll,,filestat
+2023-12-26T00:42:55.776706+00:00,AppLaunch,,\Program Files\Mozilla Firefox\nss3.dll,,filestat
+2023-12-26T00:42:55.885654+00:00,AppLaunch,,\Program Files\Mozilla Firefox\nssckbi.dll,,filestat
+2023-12-26T00:42:55.885654+00:00,AppLaunch,,\Program Files\Mozilla Firefox\nssckbi.dll,,filestat
+2023-12-26T00:42:55.950713+00:00,AppLaunch,,\Program Files\Mozilla Firefox\omni.ja,,filestat
+2023-12-26T00:42:55.950713+00:00,AppLaunch,,\Program Files\Mozilla Firefox\omni.ja,,filestat
+2023-12-26T00:42:56.229567+00:00,AppLaunch,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,filestat
+2023-12-26T00:42:56.229567+00:00,AppLaunch,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,filestat
+2023-12-26T00:42:56.229567+00:00,AppLaunch,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,filestat
+2023-12-26T00:42:56.229567+00:00,AppLaunch,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,filestat
+2023-12-26T00:42:56.229567+00:00,AppLaunch,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,filestat
+2023-12-26T00:42:56.229567+00:00,AppLaunch,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,filestat
+2023-12-26T00:42:56.229567+00:00,AppLaunch,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,filestat
+2023-12-26T00:42:56.229567+00:00,AppLaunch,SETUP.EXE,\Windows\Prefetch\SETUP.EXE-8748F196.pf,,filestat
+2023-12-26T00:42:57.273139+00:00,AppLaunch,,\Program Files\Mozilla Firefox\osclientcerts.dll,,filestat
+2023-12-26T00:42:57.273139+00:00,AppLaunch,,\Program Files\Mozilla Firefox\osclientcerts.dll,,filestat
+2023-12-26T00:42:57.366872+00:00,AppLaunch,pingsender.exe,\Program Files\Mozilla Firefox\pingsender.exe,,filestat
+2023-12-26T00:42:57.366872+00:00,AppLaunch,pingsender.exe,\Program Files\Mozilla Firefox\pingsender.exe,,filestat
+2023-12-26T00:42:57.413856+00:00,AppLaunch,,\Program Files\Mozilla Firefox\platform.ini,,filestat
+2023-12-26T00:42:57.413856+00:00,AppLaunch,,\Program Files\Mozilla Firefox\platform.ini,,filestat
+2023-12-26T00:42:57.413856+00:00,AppLaunch,,\Program Files\Mozilla Firefox\platform.ini,,filestat
+2023-12-26T00:42:57.413856+00:00,AppLaunch,,\Program Files\Mozilla Firefox\platform.ini,,filestat
+2023-12-26T00:42:57.476508+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:42:57.476508+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:42:57.492270+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:42:57.492270+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:42:57.538846+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:42:57.538846+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:42:57.538846+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:42:57.538846+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:42:57.601788+00:00,AppLaunch,,\Program Files\Mozilla Firefox\precomplete,,filestat
+2023-12-26T00:42:57.601788+00:00,AppLaunch,,\Program Files\Mozilla Firefox\precomplete,,filestat
+2023-12-26T00:42:57.601788+00:00,AppLaunch,,\Program Files\Mozilla Firefox\precomplete,,filestat
+2023-12-26T00:42:57.601788+00:00,AppLaunch,,\Program Files\Mozilla Firefox\precomplete,,filestat
+2023-12-26T00:42:57.664307+00:00,AppLaunch,private_browsing.exe,\Program Files\Mozilla Firefox\private_browsing.exe,,filestat
+2023-12-26T00:42:57.664307+00:00,AppLaunch,private_browsing.exe,\Program Files\Mozilla Firefox\private_browsing.exe,,filestat
+2023-12-26T00:42:57.710591+00:00,AppLaunch,,\Program Files\Mozilla Firefox\private_browsing.VisualElementsManifest.xml,,filestat
+2023-12-26T00:42:57.710591+00:00,AppLaunch,,\Program Files\Mozilla Firefox\private_browsing.VisualElementsManifest.xml,,filestat
+2023-12-26T00:42:57.757840+00:00,AppLaunch,,\Program Files\Mozilla Firefox\qipcap64.dll,,filestat
+2023-12-26T00:42:57.757840+00:00,AppLaunch,,\Program Files\Mozilla Firefox\qipcap64.dll,,filestat
+2023-12-26T00:42:57.757840+00:00,AppLaunch,,\Program Files\Mozilla Firefox\qipcap64.dll,,filestat
+2023-12-26T00:42:57.757840+00:00,AppLaunch,,\Program Files\Mozilla Firefox\qipcap64.dll,,filestat
+2023-12-26T00:42:57.804605+00:00,AppLaunch,,\Program Files\Mozilla Firefox\removed-files,,filestat
+2023-12-26T00:42:57.804605+00:00,AppLaunch,,\Program Files\Mozilla Firefox\removed-files,,filestat
+2023-12-26T00:42:57.804605+00:00,AppLaunch,,\Program Files\Mozilla Firefox\removed-files,,filestat
+2023-12-26T00:42:57.804605+00:00,AppLaunch,,\Program Files\Mozilla Firefox\removed-files,,filestat
+2023-12-26T00:42:57.836140+00:00,AppLaunch,,\Program Files\Mozilla Firefox\softokn3.dll,,filestat
+2023-12-26T00:42:57.836140+00:00,AppLaunch,,\Program Files\Mozilla Firefox\softokn3.dll,,filestat
+2023-12-26T00:42:57.882559+00:00,AppLaunch,,\Program Files\Mozilla Firefox\update-settings.ini,,filestat
+2023-12-26T00:42:57.882559+00:00,AppLaunch,,\Program Files\Mozilla Firefox\update-settings.ini,,filestat
+2023-12-26T00:42:57.898250+00:00,AppLaunch,,\Program Files\Mozilla Firefox\update-settings.ini,,filestat
+2023-12-26T00:42:57.898250+00:00,AppLaunch,,\Program Files\Mozilla Firefox\update-settings.ini,,filestat
+2023-12-26T00:42:57.945375+00:00,AppLaunch,updater.exe,\Program Files\Mozilla Firefox\updater.exe,,filestat
+2023-12-26T00:42:57.945375+00:00,AppLaunch,updater.exe,\Program Files\Mozilla Firefox\updater.exe,,filestat
+2023-12-26T00:42:57.945375+00:00,AppLaunch,updater.exe,\Program Files\Mozilla Firefox\updater.exe,,filestat
+2023-12-26T00:42:57.945375+00:00,AppLaunch,updater.exe,\Program Files\Mozilla Firefox\updater.exe,,filestat
+2023-12-26T00:42:57.991867+00:00,AppLaunch,,\Program Files\Mozilla Firefox\updater.ini,,filestat
+2023-12-26T00:42:57.991867+00:00,AppLaunch,,\Program Files\Mozilla Firefox\updater.ini,,filestat
+2023-12-26T00:42:57.991867+00:00,AppLaunch,,\Program Files\Mozilla Firefox\updater.ini,,filestat
+2023-12-26T00:42:57.991867+00:00,AppLaunch,,\Program Files\Mozilla Firefox\updater.ini,,filestat
+2023-12-26T00:42:58.199684+00:00,AppLaunch,,\Program Files\Mozilla Firefox\vcruntime140_1.dll,,filestat
+2023-12-26T00:42:58.199684+00:00,AppLaunch,,\Program Files\Mozilla Firefox\vcruntime140_1.dll,,filestat
+2023-12-26T00:42:58.388932+00:00,AppLaunch,,\Program Files\Mozilla Firefox\xul.dll,,filestat
+2023-12-26T00:42:58.388932+00:00,AppLaunch,,\Program Files\Mozilla Firefox\xul.dll,,filestat
+2023-12-26T00:42:58.733175+00:00,AppLaunch,,\Program Files\Mozilla Firefox\vcruntime140.dll,,filestat
+2023-12-26T00:42:58.733175+00:00,AppLaunch,,\Program Files\Mozilla Firefox\vcruntime140.dll,,filestat
+2023-12-26T00:43:02.224441+00:00,AppLaunch,,\Program Files\Mozilla Firefox\xul.dll.sig,,filestat
+2023-12-26T00:43:02.224441+00:00,AppLaunch,,\Program Files\Mozilla Firefox\xul.dll.sig,,filestat
+2023-12-26T00:43:02.224441+00:00,AppLaunch,,\Program Files\Mozilla Firefox\xul.dll.sig,,filestat
+2023-12-26T00:43:02.224441+00:00,AppLaunch,,\Program Files\Mozilla Firefox\xul.dll.sig,,filestat
+2023-12-26T00:43:02.287078+00:00,AppLaunch,helper.exe,\Program Files\Mozilla Firefox\uninstall\helper.exe,,filestat
+2023-12-26T00:43:02.287078+00:00,AppLaunch,helper.exe,\Program Files\Mozilla Firefox\uninstall\helper.exe,,filestat
+2023-12-26T00:43:02.317882+00:00,AppLaunch,helper.exe,\Program Files\Mozilla Firefox\uninstall\helper.exe,,filestat
+2023-12-26T00:43:02.317882+00:00,AppLaunch,helper.exe,\Program Files\Mozilla Firefox\uninstall\helper.exe,,filestat
+2023-12-26T00:43:02.349271+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey,,filestat
+2023-12-26T00:43:02.349271+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1,,filestat
+2023-12-26T00:43:02.349271+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1\clearkey.dll,,filestat
+2023-12-26T00:43:02.349271+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey,,filestat
+2023-12-26T00:43:02.349271+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1,,filestat
+2023-12-26T00:43:02.349271+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1\clearkey.dll,,filestat
+2023-12-26T00:43:02.411693+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1\clearkey.dll.sig,,filestat
+2023-12-26T00:43:02.411693+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1\clearkey.dll.sig,,filestat
+2023-12-26T00:43:02.507227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1,,filestat
+2023-12-26T00:43:02.507227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1\manifest.json,,filestat
+2023-12-26T00:43:02.571930+00:00,AppLaunch,,\Program Files\Mozilla Firefox\fonts,,filestat
+2023-12-26T00:43:02.571930+00:00,AppLaunch,,\Program Files\Mozilla Firefox\fonts\TwemojiMozilla.ttf,,filestat
+2023-12-26T00:43:02.619069+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults,,filestat
+2023-12-26T00:43:02.619069+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults\pref,,filestat
+2023-12-26T00:43:02.650350+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults\pref,,filestat
+2023-12-26T00:43:02.650350+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults\pref\channel-prefs.js,,filestat
+2023-12-26T00:43:02.697573+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\crashreporter-override.ini,,filestat
+2023-12-26T00:43:02.697573+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\crashreporter-override.ini,,filestat
+2023-12-26T00:43:02.744708+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features,,filestat
+2023-12-26T00:43:02.761194+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\omni.ja,,filestat
+2023-12-26T00:43:04.276598+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser,,filestat
+2023-12-26T00:43:04.276598+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements,,filestat
+2023-12-26T00:43:04.324411+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\PrivateBrowsing_150.png,,filestat
+2023-12-26T00:43:04.324411+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\PrivateBrowsing_150.png,,filestat
+2023-12-26T00:43:04.374201+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\PrivateBrowsing_70.png,,filestat
+2023-12-26T00:43:04.374201+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\PrivateBrowsing_70.png,,filestat
+2023-12-26T00:43:04.437304+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\VisualElements_150.png,,filestat
+2023-12-26T00:43:04.452813+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\VisualElements_150.png,,filestat
+2023-12-26T00:43:04.484070+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements,,filestat
+2023-12-26T00:43:04.484070+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\VisualElements_70.png,,filestat
+2023-12-26T00:43:04.500101+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\VisualElements_70.png,,filestat
+2023-12-26T00:43:04.598104+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi,,filestat
+2023-12-26T00:43:04.679774+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\pictureinpicture@mozilla.org.xpi,,filestat
+2023-12-26T00:43:04.711576+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi,,filestat
+2023-12-26T00:43:04.774103+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\webcompat-reporter@mozilla.org.xpi,,filestat
+2023-12-26T00:43:04.821057+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features,,filestat
+2023-12-26T00:43:04.821057+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi,,filestat
+2023-12-26T00:43:04.936515+00:00,AppExecution,REGSVR32.EXE,\Windows\Prefetch\REGSVR32.EXE-E1DBB6D8.pf,,prefetch
+2023-12-26T00:43:05.391652+00:00,AppLaunch,,\Program Files\Mozilla Firefox\AccessibleMarshal.dll,,filestat
+2023-12-26T00:43:05.788923+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall\uninstall.log,,filestat
+2023-12-26T00:43:05.882786+00:00,AppLaunch,,\Program Files\Mozilla Firefox\AccessibleMarshal.dll,,filestat
+2023-12-26T00:43:05.882786+00:00,AppLaunch,,\Program Files\Mozilla Firefox\application.ini,,filestat
+2023-12-26T00:43:05.882786+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\crashreporter-override.ini,,filestat
+2023-12-26T00:43:05.882786+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\PrivateBrowsing_150.png,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\PrivateBrowsing_70.png,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\VisualElements_150.png,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements\VisualElements_70.png,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\pictureinpicture@mozilla.org.xpi,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\webcompat-reporter@mozilla.org.xpi,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\omni.ja,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,crashreporter.exe,\Program Files\Mozilla Firefox\crashreporter.exe,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\crashreporter.ini,,filestat
+2023-12-26T00:43:05.898227+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaultagent.ini,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults\pref,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults\pref\channel-prefs.js,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\dependentlibs.list,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\firefox.VisualElementsManifest.xml,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,firefox.exe,\Program Files\Mozilla Firefox\firefox.exe,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\fonts,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\fonts\TwemojiMozilla.ttf,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1\clearkey.dll,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1\clearkey.dll.sig,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1\manifest.json,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,,\Program Files\Mozilla Firefox\locale.ini,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,maintenanceservice.exe,\Program Files\Mozilla Firefox\maintenanceservice.exe,,filestat
+2023-12-26T00:43:05.914017+00:00,AppLaunch,minidump-analyzer.exe,\Program Files\Mozilla Firefox\minidump-analyzer.exe,,filestat
+2023-12-26T00:43:05.929739+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozwer.dll,,filestat
+2023-12-26T00:43:05.929739+00:00,AppLaunch,,\Program Files\Mozilla Firefox\notificationserver.dll,,filestat
+2023-12-26T00:43:05.929739+00:00,AppLaunch,,\Program Files\Mozilla Firefox\omni.ja,,filestat
+2023-12-26T00:43:05.929739+00:00,AppLaunch,,\Program Files\Mozilla Firefox\platform.ini,,filestat
+2023-12-26T00:43:05.929739+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:43:05.929739+00:00,AppLaunch,plugin-container.exe,\Program Files\Mozilla Firefox\plugin-container.exe,,filestat
+2023-12-26T00:43:05.929739+00:00,AppLaunch,,\Program Files\Mozilla Firefox\precomplete,,filestat
+2023-12-26T00:43:05.929739+00:00,AppLaunch,,\Program Files\Mozilla Firefox\private_browsing.VisualElementsManifest.xml,,filestat
+2023-12-26T00:43:05.946234+00:00,AppLaunch,,\Program Files\Mozilla Firefox\qipcap64.dll,,filestat
+2023-12-26T00:43:05.946234+00:00,AppLaunch,,\Program Files\Mozilla Firefox\removed-files,,filestat
+2023-12-26T00:43:05.946234+00:00,AppLaunch,,\Program Files\Mozilla Firefox\update-settings.ini,,filestat
+2023-12-26T00:43:05.946234+00:00,AppLaunch,updater.exe,\Program Files\Mozilla Firefox\updater.exe,,filestat
+2023-12-26T00:43:05.946234+00:00,AppLaunch,,\Program Files\Mozilla Firefox\updater.ini,,filestat
+2023-12-26T00:43:05.946234+00:00,AppLaunch,,\Program Files\Mozilla Firefox\vcruntime140.dll,,filestat
+2023-12-26T00:43:05.946234+00:00,AppLaunch,,\Program Files\Mozilla Firefox\xul.dll.sig,,filestat
+2023-12-26T00:43:06.269373+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey,,filestat
+2023-12-26T00:43:06.284853+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser,,filestat
+2023-12-26T00:43:06.284853+00:00,AppLaunch,,\Program Files\Mozilla Firefox\defaults,,filestat
+2023-12-26T00:43:06.284853+00:00,AppLaunch,,\Program Files\Mozilla Firefox\gmp-clearkey\0.1,,filestat
+2023-12-26T00:43:06.316415+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\VisualElements,,filestat
+2023-12-26T00:43:07.336506+00:00,AppLaunch,maintenanceservice_installer.exe,\Program Files\Mozilla Firefox\maintenanceservice_installer.exe,,filestat
+2023-12-26T00:43:07.367348+00:00,AppExecution,,\Windows\Prefetch\MAINTENANCESERVICE_INSTALLER.-9B1CBD54.pf,,prefetch
+2023-12-26T00:43:07.988644+00:00,AppExecution,MAINTENANCESERVICE.EXE,\Windows\Prefetch\MAINTENANCESERVICE.EXE-3122AC73.pf,,prefetch
+2023-12-26T00:43:08.800010+00:00,AppInstall,,\Windows\appcompat\Programs\Amcache.hve,,winreg/amcache
+2023-12-26T00:43:08.895284+00:00,AppLaunch,maintenanceservice_installer.exe,\Program Files\Mozilla Firefox\maintenanceservice_installer.exe,,filestat
+2023-12-26T00:43:08.895284+00:00,AppInstall,maintenanceservice_installer.exe Name: [REG_SZ] maintenanceservice_installer.exe OriginalFileName: [REG_SZ] maintenanceservice_installer.exe,\Windows\appcompat\Programs\Amcache.hve,,winreg/amcache
+2023-12-26T00:43:09.681201+00:00,AppLaunch,private_browsing.exe,\Program Files\Mozilla Firefox\private_browsing.exe,,filestat
+2023-12-26T00:43:09.798588+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall,,filestat
+2023-12-26T00:43:09.798588+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall,,filestat
+2023-12-26T00:43:09.798588+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall\shortcuts_log.ini,,filestat
+2023-12-26T00:43:09.966730+00:00,AppLaunch,,\Program Files\Mozilla Firefox\install.log,,filestat
+2023-12-26T00:43:10.277491+00:00,AppExecution,SEARCHPROTOCOLHOST.EXE,\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-C6CFE2A8.pf,,prefetch
+2023-12-26T00:43:10.741674+00:00,AppLaunch,default-browser-agent.exe,\Program Files\Mozilla Firefox\default-browser-agent.exe,,filestat
+2023-12-26T00:43:10.757615+00:00,AppExecution,DEFAULT-BROWSER-AGENT.EXE,\Windows\Prefetch\DEFAULT-BROWSER-AGENT.EXE-940148E1.pf,,prefetch
+2023-12-26T00:43:10.884923+00:00,AppLaunch,,\Program Files\Mozilla Firefox\msvcp140.dll,,filestat
+2023-12-26T00:43:10.964990+00:00,AppLaunch,,\Program Files\Mozilla Firefox\vcruntime140_1.dll,,filestat
+2023-12-26T00:43:11.216843+00:00,AppLaunch,firefox.exe,\Program Files\Mozilla Firefox\firefox.exe,,filestat
+2023-12-26T00:43:11.405350+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozglue.dll,,filestat
+2023-12-26T00:43:12.140137+00:00,AppLaunch,default-browser-agent.exe,\Program Files\Mozilla Firefox\default-browser-agent.exe,,filestat
+2023-12-26T00:43:12.140137+00:00,AppInstall,default-browser-agent.exe Name: [REG_SZ] default-browser-agent.exe OriginalFileName: [REG_SZ] default-browser-agent.exe,\Windows\appcompat\Programs\Amcache.hve,,winreg/amcache
+2023-12-26T00:43:59.692064+00:00,AppExecution,DLLHOST.EXE,\Windows\Prefetch\DLLHOST.EXE-38926D07.pf,,prefetch
+2023-12-26T00:44:00.785941+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall\uninstall.log,,filestat
+2023-12-26T00:44:00.785941+00:00,AppLaunch,,\Program Files\Mozilla Firefox\uninstall\uninstall.log,,filestat
+2023-12-26T00:44:00.995796+00:00,AppLaunch,,\Program Files\Mozilla Firefox\private_browsing.VisualElementsManifest.xml,,filestat
+2023-12-26T00:44:01.160088+00:00,AppLaunch,,\Program Files\Mozilla Firefox\firefox.VisualElementsManifest.xml,,filestat
+2023-12-26T00:44:01.303244+00:00,AppLaunch,,\Program Files\Mozilla Firefox\installation_telemetry.json,,filestat
+2023-12-26T00:44:01.319959+00:00,AppLaunch,,\Program Files\Mozilla Firefox\installation_telemetry.json,,filestat
+2023-12-26T00:44:01.366681+00:00,AppLaunch,,\Program Files\Mozilla Firefox\installation_telemetry.json,,filestat
+2023-12-26T00:44:02.446702+00:00,AppLaunch,,\Program Files\Mozilla Firefox\install.log,,filestat
+2023-12-26T00:44:02.479127+00:00,AppLaunch,,\Program Files\Mozilla Firefox\install.log,,filestat
+2023-12-26T00:44:02.645958+00:00,AppLaunch,,\Program Files\Mozilla Firefox,,filestat
+2023-12-26T00:44:02.645958+00:00,AppLaunch,,\Program Files\Mozilla Firefox,,filestat
+2023-12-26T00:44:02.645958+00:00,AppLaunch,,\Program Files\Mozilla Firefox\postSigningData,,filestat
+2023-12-26T00:44:03.446946+00:00,AppExecution,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,prefetch
+2023-12-26T00:44:06.645447+00:00,AppLaunch,,\Program Files\Mozilla Firefox\application.ini,,filestat
+2023-12-26T00:44:06.856827+00:00,AppExecution,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,prefetch
+2023-12-26T00:44:07.535639+00:00,AppExecution,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,prefetch
+2023-12-26T00:44:08.607177+00:00,AppExecution,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,prefetch
+2023-12-26T00:44:09.153021+00:00,AppExecution,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,prefetch
+2023-12-26T00:44:09.791855+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozavutil.dll,,filestat
+2023-12-26T00:44:10.503191+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozavcodec.dll,,filestat
+2023-12-26T00:44:10.789801+00:00,AppExecution,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,prefetch
+2023-12-26T00:44:10.939589+00:00,AppExecution,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,prefetch
+2023-12-26T00:44:11.467627+00:00,AppExecution,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,prefetch
+2023-12-26T00:44:19.115439+00:00,AppExecution,setup-stub.exe,\Windows\appcompat\Programs\Amcache.hve,,winreg/bam
+2023-12-26T00:44:21.118057+00:00,AppLaunch,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,filestat
+2023-12-26T00:44:21.118057+00:00,AppLaunch,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,filestat
+2023-12-26T00:44:21.118057+00:00,AppLaunch,FIREFOX.EXE,\Windows\Prefetch\FIREFOX.EXE-25FC0A66.pf,,filestat
+2023-12-26T00:44:28.682000+00:00,AppLaunch,,\Users\User\NTUSER.DAT,,winreg/userassist
+2023-12-26T00:44:28.682000+00:00,AppLaunch,,\Users\User\NTUSER.DAT,,winreg/userassist
+2023-12-26T00:44:28.820696+00:00,AppLaunch,,\Program Files\Mozilla Firefox\msvcp140.dll,,filestat
+2023-12-26T00:44:28.820696+00:00,AppLaunch,,\Program Files\Mozilla Firefox\vcruntime140.dll,,filestat
+2023-12-26T00:44:28.837522+00:00,AppLaunch,,\Program Files\Mozilla Firefox\vcruntime140_1.dll,,filestat
+2023-12-26T00:44:29.682873+00:00,AppLaunch,private_browsing.exe,\Program Files\Mozilla Firefox\private_browsing.exe,,filestat
+2023-12-26T00:45:13.237147+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozavcodec.dll,,filestat
+2023-12-26T00:45:14.789620+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozavutil.dll,,filestat
+2023-12-26T00:45:52.536113+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:45:52.536113+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:45:54.632798+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:45:54.632798+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:46:15.596742+00:00,AppLaunch,,\Program Files\Mozilla Firefox\installation_telemetry.json,,filestat
+2023-12-26T00:46:15.728732+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:48:03.533543+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi,,filestat
+2023-12-26T00:48:03.782906+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi,,filestat
+2023-12-26T00:48:03.823667+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\pictureinpicture@mozilla.org.xpi,,filestat
+2023-12-26T00:48:03.868587+00:00,AppLaunch,,\Program Files\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi,,filestat
+2023-12-26T00:48:08.662208+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:48:09.877303+00:00,AppExecution,BACKGROUNDTASKHOST.EXE,\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-CA639011.pf,,prefetch
+2023-12-26T00:48:10.852185+00:00,AppExecution,RUNTIMEBROKER.EXE,\Windows\Prefetch\RUNTIMEBROKER.EXE-A171222F.pf,,prefetch
+2023-12-26T00:48:12.356925+00:00,AppLaunch,pingsender.exe,\Program Files\Mozilla Firefox\pingsender.exe,,filestat
+2023-12-26T00:48:12.374680+00:00,AppExecution,PINGSENDER.EXE,\Windows\Prefetch\PINGSENDER.EXE-29949552.pf,,prefetch
+2023-12-26T00:48:12.437179+00:00,AppExecution,CONHOST.EXE,\Windows\Prefetch\CONHOST.EXE-F98A1078.pf,,prefetch
+2023-12-26T00:48:12.683922+00:00,AppLaunch,,\Program Files\Mozilla Firefox\mozglue.dll,,filestat
+2023-12-26T00:48:13.159393+00:00,AppLaunch,,\Program Files\Mozilla Firefox,,filestat
+2023-12-26T00:48:13.159393+00:00,AppLaunch,pingsender.exe,\Program Files\Mozilla Firefox\pingsender.exe,,filestat
+2023-12-26T00:48:14.774290+00:00,AppExecution,firefox.exe,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:48:16.151380+00:00,AppExecution,LOGONUI.EXE,\Windows\Prefetch\LOGONUI.EXE-E35F76FB.pf,,prefetch
+2023-12-26T00:48:19.193604+00:00,AppExecution,vmtoolsd.exe,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:48:20.450203+00:00,AppExecution,SVCHOST.EXE,\Windows\Prefetch\SVCHOST.EXE-9EE9EA94.pf,,prefetch
+2023-12-26T00:48:23.779121+00:00,AppExecution,,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:48:24.632062+00:00,AppExecution,,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:48:26.509111+00:00,AppExecution,ApplicationFrameHost.exe,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:48:26.555932+00:00,AppExecution,explorer.exe,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:48:26.879365+00:00,AppExecution,,\Windows\System32\config\SYSTEM,,winreg/bam
+2023-12-26T00:48:26.894897+00:00,AppExecution,,\Windows\System32\config\SYSTEM,,winreg/bam
