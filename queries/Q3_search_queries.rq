@@ -1,0 +1,17 @@
+PREFIX ord2i: <http://example.org/ord2i#>
+PREFIX time:  <http://www.w3.org/2006/time#>
+
+SELECT ?time ?url ?description
+WHERE {
+    ?event a ord2i:Event ;
+           ord2i:hasEventType "WebSearch" ;
+           ord2i:uses ?obj .
+    ?obj a ord2i:WebResource ;
+         ord2i:hasURL ?url .
+    OPTIONAL { ?obj ord2i:hasDescription ?description }
+    OPTIONAL {
+        ?event ord2i:hasTimeInterval ?iv .
+        ?iv time:hasBeginning ?time .
+    }
+}
+ORDER BY ?time
