@@ -1,0 +1,18 @@
+PREFIX ord2i: <http://example.org/ord2i#>
+PREFIX time:  <http://www.w3.org/2006/time#>
+
+SELECT ?time ?eventType ?registryKey ?parser ?message
+WHERE {
+    ?event a ord2i:Event ;
+           ord2i:hasEventType ?eventType ;
+           ord2i:hasParser    ?parser .
+    FILTER(?eventType IN ("RegistryModify", "AutoRun", "ServiceModify"))
+    OPTIONAL { ?event ord2i:uses ?obj .
+               ?obj ord2i:hasRegistryKey ?registryKey }
+    OPTIONAL { ?event ord2i:hasRawMessage ?message }
+    OPTIONAL {
+        ?event ord2i:hasTimeInterval ?iv .
+        ?iv time:hasBeginning ?time .
+    }
+}
+ORDER BY ?time
