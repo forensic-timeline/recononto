@@ -1,0 +1,56 @@
+FORENSIC REPORT: Full Incident Reconstruction — Scenario 1
+Dataset: Zenodo Scenario 1, Windows 11 Enterprise, Date: 2023-12-26
+
+EXECUTIVE SUMMARY:
+On 2023-12-26, a user on a Windows 11 Enterprise system initiated a 14-minute
+session beginning at 00:34 UTC. The user launched Microsoft Edge, searched Bing
+for Mozilla Firefox, downloaded and installed Firefox (00:37-00:44), then
+immediately used Firefox to search for SQL injection attack techniques on Google
+and visited a W3Schools SQL injection tutorial at 00:46:08 UTC.
+
+FULL TIMELINE OF EVENTS:
+1. [00:34:24] PREFETCH: MSEDGE.EXE executed (run_count=1) — Edge first launch
+2. [00:35:11] BROWSER: microsoft.com/edge/welcome — Edge welcome page
+3. [00:35:38] BROWSER: bing.com — User navigated to Bing search engine
+4. [00:35:56] BROWSER: Bing search "mozilla firefox download"
+5. [00:37:00] BROWSER: mozilla.org/en-US/firefox/download/thanks
+6. [00:37:07] FILESTAT: Firefox Installer.exe downloaded from mozilla.org
+7. [00:39:14] PREFETCH: FIREFOX INSTALLER.EXE executed (run_count=1)
+8. [00:39:14] WINPCA: Firefox Installer.exe — compatibility assistance
+9. [00:42:51-00:43:04] FILESTAT: Mozilla Firefox installation files written to
+   C:\\Program Files\\Mozilla Firefox\\ (firefox.exe, xul.dll, nss3.dll, etc.)
+10. [00:43:08] REGISTRY: Amcache entries for setup-stub.exe and maintenanceservice
+11. [00:44:03] PREFETCH: FIREFOX.EXE executed (run_count=1) — first Firefox launch
+12. [00:44:21] FILESTAT: FIREFOX.EXE accessed from installation directory
+13. [00:44:45] BROWSER: mozilla.org/privacy/firefox — Firefox Privacy Notice
+14. [00:44:47] BROWSER: mozilla.org/en-US/privacy/firefox [Firefox Privacy Notice]
+15. [00:45:24] BROWSER: google.com — User navigated to Google
+16. [00:45:45] BROWSER: Google search "how to perform sql injection attack"
+17. [00:46:08] BROWSER: www.w3schools.com/sql/sql_injection.asp [SQL Injection]
+18. [00:46:16] COOKIE: _ga @ w3schools.com — confirms active W3Schools visit
+19. [00:48:14] BAM: firefox.exe — Background Activity Monitor last execution
+20. [00:48:26] EVTLOG: UserLogon events — session ending
+
+KEY FORENSIC FINDINGS:
+1. ORD2I correlation score=1.000 confirms causal chain: SQL injection search
+   directly preceded W3Schools tutorial access (delta-t = 23 seconds, CorrEK=1.0)
+2. Firefox was freshly installed (prefetch run_count=1) only 2 minutes before
+   the SQL injection search — deliberate preparation pattern
+3. Firefox installation confirmed by 3 independent artifact sources:
+   prefetch (FIREFOX INSTALLER.EXE), filestat (C:\\Program Files\\Mozilla Firefox\\),
+   and registry/amcache (setup-stub.exe)
+4. W3Schools cookies (_ga, _ga_9YNMTB56NB, _sharedID) independently confirm
+   active page access — not just a URL record
+5. No evidence of actual SQL injection execution found in artifacts
+6. Edge/Bing activity (Phase 1) distinct from Firefox activity (Phase 3)
+7. Total session: 14 minutes (00:34:22-00:48:28 UTC)
+
+CONCLUSION:
+The multi-source forensic evidence consistently demonstrates a deliberate and
+focused session: the user specifically used Edge to find and install Firefox,
+then within minutes used the fresh browser installation to search for and access
+SQL injection attack information. The cross-artifact correlation between browser
+history, prefetch execution records, registry changes, and cookie evidence
+provides high confidence in the timeline reconstruction. This activity pattern
+is consistent with reconnaissance or educational research into web attack
+techniques and warrants further investigation.
