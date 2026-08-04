@@ -5,7 +5,7 @@ Pipeline for ontology-based forensic timeline reconstruction and LLM report gene
 
 ## Structure
 - `src/`: Python scripts (steps 1–5)
-- `queries/`: SPARQL queries (to be added)
+- `queries/`: SPARQL queries
 - `data/samples/`: small sample for testing
 - `docs/`: key facts and documentation
 
