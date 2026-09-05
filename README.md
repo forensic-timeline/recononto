@@ -12,5 +12,3 @@ Pipeline for ontology-based forensic timeline reconstruction and LLM report gene
 ## Usage
 See `docs/` for details.
 
-## License
-MIT (code). Data and full results on Zenodo.
